@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Shopitty/static/js/main.4ede62ba.chunk.js",
+    "main.js.map": "/Shopitty/static/js/main.4ede62ba.chunk.js.map",
+    "runtime-main.js": "/Shopitty/static/js/runtime-main.d169d3d9.js",
+    "runtime-main.js.map": "/Shopitty/static/js/runtime-main.d169d3d9.js.map",
+    "static/js/2.8ee5db9a.chunk.js": "/Shopitty/static/js/2.8ee5db9a.chunk.js",
+    "static/js/2.8ee5db9a.chunk.js.map": "/Shopitty/static/js/2.8ee5db9a.chunk.js.map",
+    "static/js/3.0f830c62.chunk.js": "/Shopitty/static/js/3.0f830c62.chunk.js",
+    "static/js/3.0f830c62.chunk.js.map": "/Shopitty/static/js/3.0f830c62.chunk.js.map",
+    "index.html": "/Shopitty/index.html",
+    "static/js/2.8ee5db9a.chunk.js.LICENSE.txt": "/Shopitty/static/js/2.8ee5db9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d169d3d9.js",
+    "static/js/2.8ee5db9a.chunk.js",
+    "static/js/main.4ede62ba.chunk.js"
+  ]
+}
