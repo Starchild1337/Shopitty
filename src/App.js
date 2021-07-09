@@ -43,7 +43,7 @@ const App = () => {
   console.log(cart);
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/Shopitty">
         <Navbar totalNumber={cart.total_items} />
         <Switch>
           <Route exact path="/">
